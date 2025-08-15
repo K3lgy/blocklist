@@ -1,1 +1,1 @@
-Liste des domaines a bloquer 
+Liste des domaines lié au torent á bloquer 
